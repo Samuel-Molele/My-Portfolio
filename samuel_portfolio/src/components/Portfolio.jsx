@@ -14,14 +14,14 @@ const Portfolio = () => {
             id: 1,
             src: ItunesSearchApp,
             
-            demoLink: 'https://example.com/itunes-search-app-demo',
+            
             codeLink: 'https://github.com/Samuel-Molele/Itunes-Search-APP'
         },
         {
             id: 2,
             src: CarInventory,
             
-            demoLink: 'https://example.com/car-inventory-demo',
+
             codeLink: 'https://github.com/Samuel-Molele/CRUD-CarInventory-Application',
         },
 
@@ -29,7 +29,7 @@ const Portfolio = () => {
             id: 3,
             src: TodoApp,
             
-            demoLink: 'https://example.com/car-inventory-demo',
+            
             codeLink: 'https://github.com/Samuel-Molele/Full-Stack-Todo-App',
         },
 
@@ -37,7 +37,7 @@ const Portfolio = () => {
             id: 4,
             src: Ecommerce,
             
-            demoLink: 'https://example.com/car-inventory-demo',
+            
             codeLink: 'https://github.com/Samuel-Molele/React-Capstone-Project',
         },
 
@@ -45,7 +45,7 @@ const Portfolio = () => {
             id: 5,
             src: MealDB,
         
-            demoLink: 'https://example.com/car-inventory-demo',
+            
             codeLink: 'https://github.com/Samuel-Molele/Javascript-MealDB',
         },
 
@@ -53,7 +53,7 @@ const Portfolio = () => {
             id: 6,
             src: RuduxTodoApp,
             
-            demoLink: 'https://example.com/car-inventory-demo',
+            
             codeLink: 'https://github.com/Samuel-Molele/React-Redux-Todo-App',
         },
         
