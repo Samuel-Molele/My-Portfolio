@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import CarInventory from '../assets/portfolio/Screenshots/CarInventory.png';
 import Ecommerce from '../assets/portfolio/Screenshots/Ecommerce.png';
 import MealDB from '../assets/portfolio/Screenshots/MealDB.png';
-import RuduxTodoApp from '../assets/portfolio/Screenshots/ReduxTodoAPP.png';
+import ReduxTodoApp from '../assets/portfolio/Screenshots/ReduxTodoAPP.png';
 import TodoApp from '../assets/portfolio/Screenshots/TodoApp.png';
 import ItunesSearchApp from '../assets/portfolio/Screenshots/ItunesSearchApp.png';
 
@@ -51,7 +51,7 @@ const Portfolio = () => {
 
         {
             id: 6,
-            src: RuduxTodoApp,
+            src: ReduxTodoApp,
             
             
             codeLink: 'https://github.com/Samuel-Molele/React-Redux-Todo-App',
