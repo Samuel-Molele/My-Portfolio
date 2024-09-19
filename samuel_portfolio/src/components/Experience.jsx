@@ -7,7 +7,7 @@ import javascript from '../assets/portfolio/javascript.png'
 import node from '../assets/portfolio/node.png'
 import github from '../assets/portfolio/github.png'
 import reactImage from '../assets/portfolio/react.png'
-import mongoDB from '../assets/portfolio/mongoDB.png'
+import mongoDB from '../assets/portfolio/mongodb.png'
 import express from '../assets/portfolio/express.png'
 
 
