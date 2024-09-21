@@ -4,9 +4,10 @@ import path from 'path';
 
 export default defineConfig({
   plugins: [react()],
+  base: '/samuel_portfolio/',
   resolve: {
     alias: {
-      '@': path.resolve(__dirname, 'src'),  // Use path.resolve for correct alias
+      '@': path.resolve(__dirname, 'src'),  
     },
   },
 });
