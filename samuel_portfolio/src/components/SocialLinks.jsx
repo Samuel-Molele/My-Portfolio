@@ -54,7 +54,7 @@ const SocialLinks = () =>{
                         </>
                         
                     ),
-                    href: '',
+                    href: '/SamuelCV.pdf',
                     style: 'rounded-br-md',
                     download: true,
 
