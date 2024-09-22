@@ -41,7 +41,7 @@ const SocialLinks = () =>{
                         </>
                         
                     ),
-                    href: 'samuelmolele22@gmail.com',
+                    href: 'mailto:samuelmolele22@gmail.com',
                     
                 },
 
