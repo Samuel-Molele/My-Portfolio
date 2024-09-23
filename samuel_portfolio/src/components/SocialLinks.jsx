@@ -55,13 +55,13 @@ const SocialLinks = () =>{
                         </>
                         
                     ),
-                    href: '/SamuelCV.pdf',
+                    href: "/Samuel CV.pdf",
                     style: 'rounded-br-md',
-                    download: true,
+                    download: true ,
 
 
-                }
-    ]
+                },
+    ];
 
     return(
         <div className=" hidden lg:flex flex-col top-[35%] left-0 fixed">
