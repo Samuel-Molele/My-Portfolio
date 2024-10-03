@@ -72,12 +72,15 @@ const Portfolio = () => {
               
                 <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0'>
                 {
-                    portfolios.map(({id, src})=>(
+                    portfolios.map(({id, src, codeLink})=>(
 
                         <div key={id} className='shadow-md shadow-accent rounded-lg'>
-                        <img src={src} alt='' className='rounded-md duration-200 hover:scale-105 object-fit'/>
+                        <img src={src} alt='' className=' w-full h-40 object-cover rounded-md duration-200 hover:scale-105'/>
                     <div className='flex items-center justify-center text-accent '>
-                        <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>Demo</button>
+                        <a href={codeLink} target="_blank" rel="noopener noreferrer" className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>
+                        <button>Demo Code </button>
+                        
+                        </a>
                     </div>
                 </div>
                     ))
