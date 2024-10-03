@@ -7,7 +7,7 @@ Welcome to my portfolio! This project showcases my work and skills, built using 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Usage](#usage) 
 - [Contributing](#contributing)
 - [License](#license)
 

@@ -5,15 +5,15 @@ import { Link } from "react-scroll"
 const Home = () => {
   return (
     <div name= "home"
-        className='h-screen w-full bg-gradient-to-b from-black via-black to-gray-800'
+        className='h-screen w-full bg-gradient-to-b from-black via-black to-gray-800  '
     >
         <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row' >
-            <div className='flex flex-col justify-center h-full px-12'>
-                <span className='text-accent '>Full Stack Web Developer</span>
-                <h1 className=' mb-6 text-6xl sm:7xl font-bold text-white'>
+            <div className='flex flex-col justify-center h-full px-4 md:px-12'>
+                <span className='text-accent mt-5 '>Full Stack Web Developer</span>
+                <h1 className='mb-6 text-4xl sm:text-5xl md:text-6xl font-bold text-white'>
                     Hello I'm <br /><span className='text-accent'>Samuel Molele</span></h1>
-                <p className='text-white py-4 max-w-md'>
-                A versatile programmer skilled in both front-end and back-end development,
+                <p className='text-white py-4 max-w-md text-base md:text-lg'>
+                A versatile developer skilled in both front-end and back-end development,
                 proficient in creating dynamic web applications.
 
                 </p>
@@ -37,7 +37,7 @@ const Home = () => {
             <div>
                 <img src={MyImage} 
                 alt="profile"
-                className='rounded-2xl mx-auto object-cover h-35 w-96 '
+                className='rounded-2xl mx-auto object-cover w-64 h-64 md:w-100 md:h-100'
                 ></img>
             </div>
         </div>
