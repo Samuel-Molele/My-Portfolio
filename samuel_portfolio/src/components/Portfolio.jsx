@@ -70,7 +70,7 @@ const Portfolio = () => {
                             </div>
                             <div className='flex items-center justify-center text-accent'>
                                 <a href={codeLink} target="_blank" rel="noopener noreferrer" className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>
-                                    <button>Demo</button>
+                                    <button>Code</button>
                                 </a>
                             </div>
                         </div>
